@@ -8,9 +8,6 @@ Design, train and test a model architecture
 Use the model to make predictions on new images
 Analyze the softmax probabilities of the new images
 Summarize the results with a written report
-Rubric Points
-
-Here I will consider the rubric points individually and describe how I addressed each point in my implementation. The implementation and the project writeup can be found here to my project code
 
 Data Set Summary & Exploration
 
